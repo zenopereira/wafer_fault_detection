@@ -1,5 +1,7 @@
 ## Wafer Fault Detection
 
+![alt text](https://github.com/zenopereira/wafer_fault_detection/blob/main/Wafer-Fault-Detection-EC2-deployed.png)
+
 #### Problem Statement:
     
     Wafer (In electronics), also called a slice or substrate, is a thin slice of semiconductor,
